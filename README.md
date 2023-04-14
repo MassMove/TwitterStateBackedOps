@@ -17,14 +17,14 @@ Archive of data related to state-backed information operations
 | 2021-02|[Armenia](datasets/Armenia) |46.7 KB|1.2 GB|35 ||
 | 2021-02|[Iran](datasets/Iran/2021-02) |285.2 MB|32.4 GB|238 ||
 | 2020-09|[Saudi Arabia](datasets/Saudi%20Arabia) |24 KB|5.8 GB|33 ||
-| 2020-09|[Cuba]((datasets/Cuba) |666 MB|49.2 GB|526 ||
+| 2020-09|[Cuba](datasets/Cuba) |666 MB|49.2 GB|526 ||
 | 2020-09|[Thailand](datasets/Thailand) |2.3 MB|2.9 GB|926 ||
 | 2020-09|[Russia](datasets/Russia/IRA/2020-09) |180 KB|10 MB|5 ||
 | 2020-09|[Iran](datasets/Iran/2020-09) |292 KB|16.7 GB|104 ||
-| 2020-05|Russia |353 MB|108 GB|1,152 ||
+| 2020-05|[Russia](datasets/Russia/2020-05) |353 MB|108 GB|1,152 ||
 | 2020-05|Turkey |5 GB|821 GB|7,340 ||
 | 2020-05|China |73.2 MB|31 GB|23,750 ||
-| 2020-03|Ghana / Nigeria |27 MB|17 GB|71| [CNN](https://edition.cnn.com/2020/03/12/world/russia-ghana-troll-farms-2020-ward/index.html) |
+| 2020-03|[Ghana / Nigeria](datasets/Ghana%20or%20Nigeria) |27 MB|17 GB|71| [CNN](https://edition.cnn.com/2020/03/12/world/russia-ghana-troll-farms-2020-ward/index.html) |
 | 2020-02|Serbia |5.7 GB|2.3 TB|8,558 ||
 | 2020-02|SA / UAE / Egypt |4.2 GB|977 GB|5,350 ||
 | 2020-02|Indonesia |207 MB|78 GB|795 ||
