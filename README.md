@@ -14,7 +14,7 @@ Archive of data related to state-backed information operations
 | 2021-12|Mexico |2.49 MB|2.84 GB|276 ||
 | 2021-02|Russia IRA |36.6 MB|2.6 GB|31 ||
 | 2021-02|Russia GRU |14.3 MB|1.8 GB|69 ||
-| 2021-02|Armenia |46.7 KB|1.2 GB|35 ||
+| 2021-02|[Armenia](datasets/Armenia) |46.7 KB|1.2 GB|35 ||
 | 2021-02|Iran |285.2 MB|32.4 GB|238 ||
 | 2020-09|Saudi Arabia |24 KB|5.8 GB|33 ||
 | 2020-09|Cuba |666 MB|49.2 GB|526 ||
