@@ -4,18 +4,18 @@ Archive of data related to state-backed information operations
 
 | Date     | Country  | Msg Info  | Media | Accounts |Reports|
 |:-----------|:-----------:|:------------:|:------------:|------------:|:-----:|
-| 2021-12|[China](datasets/People\’s Republic of China/Changyu Culture/2021_12_CNCC_0621_CNCC_0621_users.csv) |2.57 MB|4.61 GB|112 ||
-| 2021-12|China |3.46 MB|2.3 GB|2048 ||
-| 2021-12|Russia IRA |2.48 MB|3.31 GB|16 ||
-| 2021-12|Russia |1.11 MB|1.65 GB|50 ||
-| 2021-12|Tanzania |1.58 MB|(1.81 GB|268 ||
-| 2021-12|Uganda |62.14 MB|19.92 GB|418 ||
-| 2021-12|Venezuela |82.07 MB|20.18 GB|277 ||
-| 2021-12|Mexico |2.49 MB|2.84 GB|276 ||
-| 2021-02|Russia IRA |36.6 MB|2.6 GB|31 ||
-| 2021-02|Russia GRU |14.3 MB|1.8 GB|69 ||
+| 2021-12|[China](datasets/People’s%20Republic%20of%20China/Changyu%20Culture) |2.57 MB|4.61 GB|112 ||
+| 2021-12|[China](datasets/People’s%20Republic%20of%20China/Xinjiang) |3.46 MB|2.3 GB|2048 ||
+| 2021-12|[Russia IRA](datasets/Russia/IRA/North%20Africa) |2.48 MB|3.31 GB|16 ||
+| 2021-12|[Russia](datasets/Russia/East%20Africa) |1.11 MB|1.65 GB|50 ||
+| 2021-12|[Tanzania](datasets/Tanzania) |1.58 MB|(1.81 GB|268 ||
+| 2021-12|[Uganda](datasets/Uganda) |62.14 MB|19.92 GB|418 ||
+| 2021-12|[Venezuela](datasets/Venezuela) |82.07 MB|20.18 GB|277 ||
+| 2021-12|[Mexico](datasets/Mexico) |2.49 MB|2.84 GB|276 ||
+| 2021-02|[Russia IRA](Russia/IRA/2021-02) |36.6 MB|2.6 GB|31 ||
+| 2021-02|[Russia GRU](datasets/Russia/GRU) |14.3 MB|1.8 GB|69 ||
 | 2021-02|[Armenia](datasets/Armenia) |46.7 KB|1.2 GB|35 ||
-| 2021-02|Iran |285.2 MB|32.4 GB|238 ||
+| 2021-02|[Iran](datasets/Iran) |285.2 MB|32.4 GB|238 ||
 | 2020-09|Saudi Arabia |24 KB|5.8 GB|33 ||
 | 2020-09|Cuba |666 MB|49.2 GB|526 ||
 | 2020-09|Thailand |2.3 MB|2.9 GB|926 ||
